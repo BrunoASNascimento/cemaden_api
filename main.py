@@ -20,6 +20,6 @@ def get_state(latitude: float, longitude: float):
 
 
 #! Only test
-latitude = -23.46
-longitude = -46.2
-get_state(latitude, longitude)
+# latitude = -23.46
+# longitude = -46.2
+# get_state(latitude, longitude)
